@@ -159,14 +159,6 @@ Project developed during TechSprint focusing on solving real-world challenges th
 
 </div>
 
----
-
-## Certifications
-
-NONE
-
----
-
 ## Coding Platforms
 
 <div align="center">
