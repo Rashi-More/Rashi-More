@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D12,50:8C1A2D,100:FF3B5C&height=200&section=header&text=Rashi%20More&fontSize=55&fontColor=FFB6C1&fontAlignY=38&desc=Where%20AI%20Meets%20Security%2C%20Code%20Becomes%20Impact&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D12,50:8C1A2D,100:FF3B5C&height=200&section=header&text=Rashi%20More&fontSize=55&fontColor=FFB6C1&fontAlignY=38&animation=fadeIn"/>
 
 </div>
 
-<h2 align="center">🛡️ AI-Driven Developer, Securing Code, Building Impact 💻</h2>
+<div align="center">
+
+<a href="https://github.com/Rashi-More">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF3B5C&center=true&vCenter=true&width=600&lines=AI-Driven+Developer+%F0%9F%A4%96;Securing+Code%2C+Building+Impact+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+%2B+Cybersecurity+Enthusiast+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%90" alt="Typing SVG" />
+</a>
+
+</div>
 
 <div align="center">
 
@@ -27,6 +33,10 @@
 
 <p align="center">📍 Navi Mumbai, Maharashtra, India</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rashi-More&style=flat-square&color=ff3b5c&label=Profile+Views" alt="Profile Views"/>
+</p>
+
 ---
 
 ## About Me
@@ -43,7 +53,24 @@ I enjoy building practical software that solves real-world problems by combining
 **Databases:** MySQL
 **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
 
-![Skills](https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,idea&theme=dark)
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,idea&theme=dark&perline=10)
+
+</div>
+
+---
+
+## GitHub Stats (Live)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rashi-More&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D12&title_color=FF3B5C&icon_color=FF3B5C&text_color=FFB6C1" alt="GitHub Stats" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Rashi-More&theme=radical&hide_border=true&background=0D0D12&ring=FF3B5C&fire=FF3B5C&currStreakLabel=FFB6C1" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashi-More&bg_color=0D0D12&color=FF3B5C&line=FF3B5C&point=FFB6C1&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+
+</div>
 
 ---
 
@@ -183,6 +210,18 @@ Software Engineering Internships · AI/ML Internships · Java Backend Developer 
 
 ---
 
+## Contribution Snake 🐍
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rashi-More/Rashi-More/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%"/>
+
+<sub>To activate this animation, add the <code>snk</code> GitHub Action from <a href="https://github.com/Platane/snk">Platane/snk</a> to your profile repo — it auto-generates this SVG from your contribution graph on a schedule.</sub>
+
+</div>
+
+---
+
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D0D12?style=for-the-badge&logo=firefox&logoColor=FF3B5C&color=0D0D12)](https://rashi-more.github.io)
@@ -193,4 +232,4 @@ Software Engineering Internships · AI/ML Internships · Java Backend Developer 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF3B5C,100:0D0D12&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3B5C,100:0D0D12&height=100&section=footer" width="100%"/>
