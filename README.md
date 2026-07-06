@@ -1,142 +1,171 @@
 <div align="center">
-<br/>
-
-# Rashi More
-
-<sub>AI · Cybersecurity · Full-Stack Development</sub>
 
 <br/>
 
-[Portfolio](https://rashi-more.github.io) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rashi-more-793208307/) &nbsp;·&nbsp; [Email](mailto:rmrashi197@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Rashi-More)
+<table>
+<tr>
+<td width="65%" rowspan="2" valign="top">
+
+### 👋 Rashi More
+**AI · Cybersecurity · Full-Stack Developer**
+
+Building practical software at the intersection of AI, security, and full-stack systems — through hackathons, open source, and continuous learning.
+
+📍 Navi Mumbai, Maharashtra, India
+
+[Portfolio](https://rashi-more.github.io) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/rashi-more-793208307/) &nbsp;|&nbsp; [GitHub](https://github.com/Rashi-More) &nbsp;|&nbsp; [Email](mailto:rmrashi197@gmail.com)
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+**🎓 Education**
+
+B.E. Artificial Intelligence & Data Science
+SIES GST · Exp. 2028
+
+</td>
+</tr>
+<tr>
+<td width="35%" align="center" valign="middle">
+
+**📊 Status**
+
+<img src="https://komarev.com/ghpvc/?username=Rashi-More&style=flat-square&color=grey&label=Profile+Views"/>
+
+Open to internships & collabs
+
+</td>
+</tr>
+</table>
 
 <br/>
-<br/>
-</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🧠 Languages**
+
+`Java` `JavaScript` `Python`
+`SQL` `HTML` `CSS`
+
+</td>
+<td width="33%" valign="top">
+
+**🗄️ Database**
+
+`MySQL`
+
+</td>
+<td width="34%" valign="top">
+
+**🛠️ Tools**
+
+`Git` `GitHub`
+`VS Code` `IntelliJ IDEA`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## About
+<table>
+<tr>
+<td width="60%" rowspan="2" valign="top">
 
-I build practical software at the intersection of artificial intelligence, cybersecurity, and full-stack development — through hackathons, open source, and continuous learning.
+### 🛡️ IntrusionX AI
+AI-powered cybersecurity solution built for the **REDACT 2025 Hackathon**.
 
-Navi Mumbai, Maharashtra, India
+`Python` `Machine Learning` `Security`
+Role: Team Member
+
+</td>
+<td width="40%" valign="top">
+
+### 🎯 StudyGuard
+Distraction-detecting app: browser extension + desktop client.
+
+`JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="40%" valign="top">
+
+### 🔒 Clear-Vault
+Secure data wiping & digital certificate generation.
+
+`Java` `Security`
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 💳 Credify
+TechSprint challenge.
+🏆 Top 10 Finalist
+
+</td>
+<td width="33%" valign="top">
+
+### 💬 Support Chatbot
+Java NLP chatbot with web UI.
+
+`Java` `NLP`
+
+</td>
+<td width="34%" valign="top">
+
+### 📋 Student Form System
+Servlet-based form management.
+
+`Java Servlets` `MySQL`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
----
+<table>
+<tr>
+<td width="70%" valign="top">
 
-<br/>
-
-## Education
-
-**B.E. in Artificial Intelligence & Data Science**
-SIES Graduate School of Technology · Expected 2028
-
-<br/>
-
----
-
-<br/>
-
-## Stack
-
-<br/>
+**🏅 Recognition**
 
 | | |
 |:--|:--|
-| **Languages** | Java · JavaScript · Python · SQL · HTML · CSS |
-| **Database** | MySQL |
-| **Tools** | Git · GitHub · VS Code · IntelliJ IDEA |
+| 🥈 1st Runner-Up | Samved — National Hackathon |
+| 🏆 Top 10 Finalist | TechSprint — Credify |
+| 🛡️ Participant | REDACT 2025 Hackathon |
+
+</td>
+<td width="30%" valign="top">
+
+**⚡ Currently**
+
+- Open source
+- Spring Boot
+- AI / ML / Security
+
+</td>
+</tr>
+</table>
 
 <br/>
 
----
+<table>
+<tr>
+<td align="center">
 
-<br/>
+**Open to:** Software Engineering · AI/ML Internships · Java Backend · Full-Stack · Cybersecurity Projects
 
-## Projects
+[Portfolio](https://rashi-more.github.io) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/rashi-more-793208307/) &nbsp;|&nbsp; [GitHub](https://github.com/Rashi-More) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/Rashi_R_More) &nbsp;|&nbsp; [Email](mailto:rmrashi197@gmail.com)
 
-<br/>
-
-**StudyGuard**
-Productivity app that detects distractions using a browser extension paired with a desktop client.
-*JavaScript · Browser Extension · Desktop*
-
-<br/>
-
-**IntrusionX AI**
-AI-powered cybersecurity solution built for the REDACT 2025 Hackathon.
-*Python · Machine Learning*
-
-<br/>
-
-**Clear-Vault**
-Secure data-wiping and digital certificate generation system for verified deletion.
-*Java · Security*
-
-<br/>
-
-**Credify**
-Real-world problem solved during TechSprint — Top 10 Finalist.
-*Full-Stack*
-
-<br/>
-
-**Support Chatbot**
-Java NLP-based chatbot with a web interface.
-*Java · NLP*
-
-<br/>
-
-**Student Form Management System**
-Java Servlet web application with backend storage.
-*Java Servlets · MySQL*
-
-<br/>
-
----
-
-<br/>
-
-## Recognition
-
-<br/>
-
-| | |
-|:--|:--|
-| 1st Runner-Up | National Level Hackathon — Samved |
-| Top 10 Finalist | TechSprint — Credify |
-| Participant | REDACT 2025 Hackathon |
-
-<br/>
-
----
-
-<br/>
-
-## Currently
-
-Contributing to open source · Learning Spring Boot · Exploring AI, ML, and cybersecurity
-
-<br/>
-
----
-
-<br/>
-
-## Open to
-
-Software Engineering Internships · AI/ML Internships · Java Backend Roles · Full-Stack Roles · Cybersecurity Projects
-
-<br/>
-<br/>
-
-<div align="center">
-
-[Portfolio](https://rashi-more.github.io) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rashi-more-793208307/) &nbsp;·&nbsp; [Email](mailto:rmrashi197@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Rashi-More) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/Rashi_R_More)
-
-<br/>
-
-<sub>Designed with restraint.</sub>
+</td>
+</tr>
+</table>
 
 </div>
