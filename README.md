@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A41,50:3A5A78,100:8FA8BF&height=180&section=header&text=Rashi%20More&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=AI%20%26%20Cybersecurity%20Focused%20Software%20Developer&descSize=15&descAlignY=65&animation=fadeIn" width="100%"/>
+# Rashi More
+
+**Software Developer | Artificial Intelligence &amp; Data Science | Cybersecurity**
 
 </div>
 
-<h3 align="center">Software Developer | Artificial Intelligence &amp; Data Science | Cybersecurity</h3>
+<hr style="height:4px;border:none;background:linear-gradient(90deg,#1B2A41,#3A5A78,#8FA8BF);border-radius:2px;" />
 
 <div align="center">
 
@@ -149,4 +151,4 @@ Software Engineering Internships · AI/ML Internships · Java Backend Developer 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FA8BF,100:1B2A41&height=100&section=footer" width="100%"/>
+<hr style="height:4px;border:none;background:linear-gradient(90deg,#8FA8BF,#1B2A41);border-radius:2px;" />
