@@ -1,290 +1,320 @@
-```text
-┌────────────────────────────────────────────────────────┐
-│ SYSTEM CONFIGURATION: ROSE-ESPRESSO CYBER              │
-├────────────────────────────────────────────────────────┤
-│ Primary Accent    : #d3a2b7 (Rose Gold Pink)           │
-│ Secondary Accent  : #d199a9 (Muted Coral Rose)         │
-│ Background Color  : #150f11 (Deep Espresso Obsidian)   │
-│ Text Color        : #ebdcd0 (Soft Warm Beige)          │
-│ Border Color      : #362229 (Dark Muted Red)           │
-│ Banner Theme      : Slice (Soft Deep Dark)            │
-│ Terminal Font     : JetBrains Mono                     │
-└────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D12,50:8C1A2D,100:FF3B5C&height=220&section=header&text=Rashi%20More&fontSize=58&fontColor=FFB6C1&fontAlignY=38&desc=AI%20%7C%20Cybersecurity%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
+
+<img src="./assets/avatar.png" width="180" style="border-radius:50%;" />
+
+</div>
+
+<h3 align="center">`$ whoami`</h3>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=150f11&height=220&section=header&text=RASHI%20MORE&fontSize=65&fontColor=d3a2b7&fontAlignY=45&desc=Artificial%20Intelligence%20%7C%20Data%20Science%20%7C%20Software%20Development&descAlignY=68&descSize=20&descColor=ebdcd0&animation=twinkling" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF3B5C&center=true&vCenter=true&width=650&lines=%24+whoami+%3D%3E+Rashi+More;%24+role+%3D%3E+Software+Engineer+%7C+2+yrs+exp;%24+stack+%3D%3E+Java+%2F+Python+%2F+JavaScript+%2F+SQL;%24+focus+%3D%3E+AI+%2B+Cybersecurity+%2B+Full-Stack;%24+status+%3D%3E+open_to_work+%3D+true)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=d3a2b7&center=true&vCenter=true&width=650&lines=%24+whoami;Rashi+More+%7C+AI+%26+Data+Science;%24+focus;AI%2FML%2C+Cybersecurity+%26+Java+Dev;%24+status;Mastering+Spring+Boot+%26+Open+Source" alt="Typing SVG" />
+
+![Degree](https://img.shields.io/badge/B.E.-AI%20%26%20Data%20Science-0D0D12?style=flat-square&labelColor=0D0D12&color=FF3B5C)
+![University](https://img.shields.io/badge/SIES%20GST-Graduating%202028-0D0D12?style=flat-square&labelColor=0D0D12&color=FF3B5C)
+![Location](https://img.shields.io/badge/📍-Navi%20Mumbai%2C%20India-0D0D12?style=flat-square&labelColor=0D0D12&color=FF3B5C)
+
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Degree-B.E.%20AI%20%26%20Data%20Science-d3a2b7?style=for-the-badge&logo=cpu&logoColor=150f11&labelColor=150f11" />
-  <img src="https://img.shields.io/badge/University-SIES%20GST-d199a9?style=for-the-badge&logo=education&logoColor=150f11&labelColor=150f11" />
-  <img src="https://img.shields.io/badge/Location-Navi%20Mumbai%2C%20India-d3a2b7?style=for-the-badge&logo=openstreetmap&logoColor=150f11&labelColor=150f11" />
-</div>
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D12?style=for-the-badge&logo=firefox&logoColor=FF3B5C&color=0D0D12)](https://rashi-more.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D12?style=for-the-badge&logo=linkedin&logoColor=FF3B5C&color=0D0D12)](https://www.linkedin.com/in/rashi-more-793208307/)
+[![Email](https://img.shields.io/badge/Email-0D0D12?style=for-the-badge&logo=gmail&logoColor=FF3B5C&color=0D0D12)](mailto:rmrashi197@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D12?style=for-the-badge&logo=github&logoColor=FF3B5C&color=0D0D12)](https://github.com/Rashi-More)
+
+</div>
 
 <div align="center">
-  <a href="https://rashi-more.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-rashi--more.github.io-d3a2b7?style=for-the-badge&logo=googlechrome&logoColor=150f11&labelColor=150f11" />
-  </a>
-  <a href="https://www.linkedin.com/in/rashi-more-793208307/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rashi%20More-d199a9?style=for-the-badge&logo=linkedin&logoColor=150f11&labelColor=150f11" />
-  </a>
-  <a href="mailto:rmrashi197@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rmrashi197%40gmail.com-d3a2b7?style=for-the-badge&logo=gmail&logoColor=150f11&labelColor=150f11" />
-  </a>
-  <a href="https://github.com/Rashi-More">
-    <img src="https://img.shields.io/badge/GitHub-Rashi--More-d199a9?style=for-the-badge&logo=github&logoColor=150f11&labelColor=150f11" />
-  </a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rashi-More&color=ff3b5c&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Rashi-More?color=ff3b5c&style=flat-square&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Rashi-More?color=ff3b5c&style=flat-square&label=TOTAL+STARS)
+
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rashi-More&color=d3a2b7&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Rashi-More?style=for-the-badge&color=d199a9&labelColor=150f11" />
-  <img src="https://img.shields.io/github/stars/Rashi-More?style=for-the-badge&color=d3a2b7&labelColor=150f11" />
-</div>
+### `$ cat about_me.md`
 
-## `👤 whoami`
-
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <p>I am an Artificial Intelligence & Data Science engineering student and software developer. I enjoy building practical software that solves real-world problems by combining Artificial Intelligence, Cybersecurity, and Full-Stack Development. I actively participate in hackathons, contribute to open source, and continuously learn modern technologies to create impactful projects.</p>
-      <p>My analytical background enables me to design intelligent algorithms while ensuring database records are managed securely and user workflows remain highly productive.</p>
-    </td>
-    <td width="35%" align="center">
-      <img src="rashi_photo.jpg" width="180px" style="border-radius: 20px; border: 3px solid #d3a2b7; box-shadow: 0 4px 15px rgba(211, 162, 183, 0.4);" alt="Rashi More" />
-      <br/>
-      <sub><i>Note: Place your profile picture as <b>rashi_photo.jpg</b> in the repository root</i></sub>
-    </td>
-  </tr>
-</table>
+I'm a Software Engineer with 2 years of hands-on experience building practical software across AI, Data Science, and Cybersecurity. Hood up, headphones in, laptop out — I combine full-stack development with a security-first mindset, and I'm an active hackathon participant and open-source contributor who loves turning real-world problems into working code.
 
 ```bash
-# System profile variables
-ROLE="AI & Data Science Student / Software Developer"
-EXPERIENCE="Student / Early Career"
-DOMAIN="AI, Data Science, Full-Stack, Cybersecurity, Open Source"
-STACK="Java, JavaScript, Python, SQL, HTML, CSS, MySQL, Git"
-OPEN_TO="Software Engineering Internships, AI/ML Internships, Java Backend Developer Roles, Full-Stack Development Roles, Cybersecurity Projects, Open Source Contributions"
+ROLE     : Software Engineer (2 yrs experience)
+DOMAIN   : AI · Data Science · Cybersecurity · Full-Stack · Open Source
+STACK    : Java · Python · JavaScript · SQL · HTML/CSS · MySQL
+OPEN_TO  : SWE Internships · AI/ML Internships · Java Backend · Full-Stack · Cybersecurity Projects
 ```
 
-## `🛠️ env | grep TECH_STACK`
+---
 
-*   **Languages**: <img src="https://img.shields.io/badge/Java-d3a2b7?style=flat-square&logo=openjdk&logoColor=150f11&labelColor=150f11" /> <img src="https://img.shields.io/badge/Python-d199a9?style=flat-square&logo=python&logoColor=150f11&labelColor=150f11" /> <img src="https://img.shields.io/badge/JavaScript-d3a2b7?style=flat-square&logo=javascript&logoColor=150f11&labelColor=150f11" /> <img src="https://img.shields.io/badge/SQL-d199a9?style=flat-square&logo=sqlite&logoColor=150f11&labelColor=150f11" />
-*   **Frontend**: <img src="https://img.shields.io/badge/HTML5-d3a2b7?style=flat-square&logo=html5&logoColor=150f11&labelColor=150f11" /> <img src="https://img.shields.io/badge/CSS3-d199a9?style=flat-square&logo=css3&logoColor=150f11&labelColor=150f11" /> <img src="https://img.shields.io/badge/JavaScript-d3a2b7?style=flat-square&logo=javascript&logoColor=150f11&labelColor=150f11" />
-*   **Backend**: <img src="https://img.shields.io/badge/Java%20Servlets-d199a9?style=flat-square&logo=openjdk&logoColor=150f11&labelColor=150f11" />
-*   **Databases**: <img src="https://img.shields.io/badge/MySQL-d3a2b7?style=flat-square&logo=mysql&logoColor=150f11&labelColor=150f11" />
-*   **Tools**: <img src="https://img.shields.io/badge/VS%20Code-d199a9?style=flat-square&logo=visual-studio-code&logoColor=150f11&labelColor=150f11" /> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-d3a2b7?style=flat-square&logo=intellij-idea&logoColor=150f11&labelColor=150f11" />
-*   **AI/ML**: <img src="https://img.shields.io/badge/Machine%20Learning-d199a9?style=flat-square&logo=scikit-learn&logoColor=150f11&labelColor=150f11" /> <img src="https://img.shields.io/badge/AI%20Technologies-d3a2b7?style=flat-square&logo=google-bard&logoColor=150f11&labelColor=150f11" />
-*   **Version Control**: <img src="https://img.shields.io/badge/Git-d199a9?style=flat-square&logo=git&logoColor=150f11&labelColor=150f11" /> <img src="https://img.shields.io/badge/GitHub-d3a2b7?style=flat-square&logo=github&logoColor=150f11&labelColor=150f11" />
+### `$ ls tech_stack/`
 
-<br/>
+**Languages & Core**
+![Skills](https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark)
+
+**Tools & Environment**
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark)
+
+---
+
+### `$ grep -i "specialty" skills.txt`
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-0D0D12?style=flat-square&color=FF3B5C)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0D0D12?style=flat-square&color=FF3B5C)
+![Data Science](https://img.shields.io/badge/Data%20Science-0D0D12?style=flat-square&color=FF3B5C)
+![Full Stack](https://img.shields.io/badge/Full--Stack%20Dev-0D0D12?style=flat-square&color=FF3B5C)
+![Java Backend](https://img.shields.io/badge/Java%20Backend-0D0D12?style=flat-square&color=FF3B5C)
+![Open Source](https://img.shields.io/badge/Open%20Source-0D0D12?style=flat-square&color=FF3B5C)
+
+---
+
+### `$ cat expertise_table.md`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,mysql,git,github,vscode,idea" />
-</div>
-
-## `🏅 specialty_badges --list`
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Specialty-Artificial%20Intelligence-d3a2b7?style=for-the-badge&logo=cpu&logoColor=150f11&labelColor=150f11" />
-  <img src="https://img.shields.io/badge/Specialty-Cybersecurity-d199a9?style=for-the-badge&logo=lock&logoColor=150f11&labelColor=150f11" />
-  <img src="https://img.shields.io/badge/Specialty-Full--Stack-d3a2b7?style=for-the-badge&logo=codefactor&logoColor=150f11&labelColor=150f11" />
-  <img src="https://img.shields.io/badge/Specialty-Open%20Source-d199a9?style=for-the-badge&logo=git&logoColor=150f11&labelColor=150f11" />
-</div>
-
-## `📊 cat expertise_matrix.md`
 
 | Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Artificial Intelligence & Data Science** | 🟢 Advanced Beginner | Python-based machine learning, data structures, and algorithms. Currently pursuing B.E. in AI & DS. |
-| **Full-Stack Java Development** | 🟢 Intermediate | Building web applications using Java Servlets, JSP, HTML, CSS, JavaScript, and MySQL backend. Currently learning Spring Boot. |
-| **Cybersecurity** | 🟢 Competent | Focus on safe data deletion (Clear-Vault) and intrusion detection (IntrusionX AI). Participated in REDACT 2025 Hackathon. |
-| **Software Development** | 🟢 Proficient | General software engineering practices, desktop application communication (StudyGuard), and database management. |
+|:---|:---:|:---|
+| Java Development | ⭐⭐⭐⭐ | Servlets, backend systems, MySQL integration |
+| Cybersecurity | ⭐⭐⭐⭐ | Secure data wiping, digital certificate systems, hackathon security builds |
+| Artificial Intelligence | ⭐⭐⭐ | ML-based tooling, NLP chatbots, AI-driven security solutions |
+| Full-Stack Web Dev | ⭐⭐⭐⭐ | HTML, CSS, JavaScript, browser extensions, portfolio & form systems |
+| Data Science | ⭐⭐⭐ | Currently pursuing B.E. specialization in AI & Data Science |
+| Open Source & Hackathons | ⭐⭐⭐⭐ | Active contributor, multiple national-level hackathon builds |
 
-## `📁 ls -la projects/`
+</div>
 
-<details>
-<summary><b>🛡️ IntrusionX AI (REDACT 2025 Hackathon)</b></summary>
+---
 
-| Field | Details |
-| :--- | :--- |
-| **Description** | AI-powered cybersecurity solution developed for the REDACT 2025 Hackathon. |
-| **Tech Stack** | AI, Python, Machine Learning, Web Technologies |
-| **Contribution** | Team Member / Developer |
-| **Impact** | Implemented predictive modeling for detecting network anomalies and system intrusions. |
+### `$ ./run --featured-projects`
+
+<details open>
+<summary><b>🛡️ IntrusionX AI — AI-Powered Cybersecurity Solution</b></summary>
+<br>
+
+Built for the REDACT 2025 Hackathon, IntrusionX AI applies machine learning and AI techniques to detect and respond to cybersecurity threats through a web-facing interface.
+
+| Stack | Scale | Impact |
+|:---|:---|:---|
+| Python, AI/ML, Web Technologies | Hackathon build (REDACT 2025) | Hackathon participation entry |
+
+**Role:** Team Member / Developer
 
 </details>
 
 <details>
-<summary><b>🛡️ Clear-Vault</b></summary>
+<summary><b>🔒 Clear-Vault — Secure Data Wiping & Digital Certificate System</b></summary>
+<br>
 
-| Field | Details |
-| :--- | :--- |
-| **Description** | Secure Data Wiping & Digital Certificate Generation System for safe deletion and verification of digital assets. |
-| **Tech Stack** | Java, Security, File Management |
-| **Contribution** | Developer |
-| **Impact** | Created an application to wipe digital traces safely, generating encrypted certificates for compliance validation. |
+A security-focused system for safe deletion and verification of digital assets, generating digital certificates to confirm secure wipe completion.
 
-</details>
+| Stack | Scale | Impact |
+|:---|:---|:---|
+| Java, Security, File Management | Personal/hackathon project | Verifiable secure deletion workflow |
 
-<details>
-<summary><b>⚙️ StudyGuard</b></summary>
-
-| Field | Details |
-| :--- | :--- |
-| **Description** | Productivity application that detects distractions using browser extension + desktop communication. |
-| **Tech Stack** | JavaScript, Browser Extension, Desktop Application |
-| **Contribution** | Sole Developer |
-| **Impact** | Facilitated cross-process communication to flag distractions and lock windows during study sessions. |
+**Role:** Developer
 
 </details>
 
 <details>
-<summary><b>🤖 Support Chatbot</b></summary>
+<summary><b>🎯 StudyGuard — Distraction Detection Productivity App</b></summary>
+<br>
 
-| Field | Details |
-| :--- | :--- |
-| **Description** | Java NLP-based chatbot with a web interface. |
-| **Tech Stack** | Java, HTML, CSS, JavaScript |
-| **Contribution** | Sole Developer |
-| **Impact** | Implemented simple natural language parser in pure Java backend to serve contextual support queries. |
+A productivity application that detects distractions by combining a browser extension with desktop-application communication, helping users stay focused.
 
-</details>
+| Stack | Scale | Impact |
+|:---|:---|:---|
+| JavaScript, Browser Extension, Desktop App | Solo personal project | Real-time distraction detection |
 
-<details>
-<summary><b>💼 Portfolio Website</b></summary>
-
-| Field | Details |
-| :--- | :--- |
-| **Description** | Creative portfolio showcasing projects, hackathons, and technical skills. |
-| **Tech Stack** | HTML, CSS, JavaScript |
-| **Contribution** | Sole Developer |
-| **Impact** | Built personal branding and deployed on GitHub Pages for clean and mobile-friendly visual representation. |
+**Role:** Sole Developer
 
 </details>
 
 <details>
-<summary><b>🏫 Student Form Management System</b></summary>
+<summary><b>💬 Support Chatbot — Java NLP Chatbot</b></summary>
+<br>
 
-| Field | Details |
-| :--- | :--- |
-| **Description** | Java Servlet web application with backend storage. |
-| **Tech Stack** | Java Servlets, HTML, CSS, MySQL |
-| **Contribution** | Sole Developer |
-| **Impact** | Automated student intake, validation processing, and relational database records management. |
+A Java-based NLP chatbot with a web interface designed to handle support-style conversations.
+
+| Stack | Scale | Impact |
+|:---|:---|:---|
+| Java, HTML, CSS, JavaScript | Solo personal project | Functional NLP-driven chat interface |
+
+**Role:** Sole Developer
 
 </details>
 
 <details>
-<summary><b>💳 Credify</b></summary>
+<summary><b>📋 Student Form Management System</b></summary>
+<br>
 
-| Field | Details |
-| :--- | :--- |
-| **Description** | Project developed during TechSprint focusing on solving real-world challenges through innovative software solutions. |
-| **Tech Stack** | Software Engineering, Frontend & Backend Integration |
-| **Contribution** | Team Member / Developer |
-| **Impact** | Successfully advanced to the Top 10 Finals stage out of multiple contesting entries. |
+A Java Servlet-based web application for managing student forms with persistent backend storage.
+
+| Stack | Scale | Impact |
+|:---|:---|:---|
+| Java Servlets, HTML, CSS, MySQL | Solo personal project | End-to-end backend form management |
+
+**Role:** Sole Developer
 
 </details>
 
-## `🕒 git log --timeline`
+<details>
+<summary><b>💳 Credify — TechSprint Project</b></summary>
+<br>
 
-#### 📍 Student / Early Career
-**AI & Data Science Student Developer** | *2024 - Present*
-- Pursuing a Bachelor of Engineering with focus on machine learning algorithms, database administration, and security.
-- Developing modular applications (Java Servlets, desktop-to-browser extension communications).
-- Participating in national-level and regional hackathons (Samved, TechSprint, REDACT).
-- **Core Skills:** Java, Python, JavaScript, SQL, Git, Artificial Intelligence, Machine Learning
+Developed during TechSprint, focusing on solving real-world challenges through innovative software solutions. Finished Top 10.
 
-## `🏆 run achievements --show`
+| Stack | Scale | Impact |
+|:---|:---|:---|
+| Full-stack (TechSprint build) | Hackathon/Sprint build | Top 10 Finalist |
 
-| Achievement | Event / Organization | Detail |
-| :--- | :--- | :--- |
-| **🥈 1st Runner-Up** | National Level Hackathon Samved | Developed innovative real-world software solution. |
-| **🏆 Top 10 Finalist** | TechSprint for Credify | Selected as a finalist for design complexity and practical software application. |
-| **🛡️ Participant** | REDACT 2025 Hackathon | Co-developed IntrusionX AI for predictive security threat mitigation. |
-| **🌍 Active Contributor** | GitHub Open Source Ecosystem | Collaborative updates, bug reporting, and tooling contributions. |
+**Role:** Team Member / Developer
 
-## `🎓 cat education.log`
+</details>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Degree-Bachelor%20of%20Engineering%20(AI%20%26%20DS)-d3a2b7?style=for-the-badge&labelColor=150f11" />
-  <img src="https://img.shields.io/badge/Institute-SIES%20GST-d199a9?style=for-the-badge&labelColor=150f11" />
-  <img src="https://img.shields.io/badge/Graduation-Expected%202028-d3a2b7?style=for-the-badge&labelColor=150f11" />
-</div>
+<details>
+<summary><b>🌐 Portfolio Website</b></summary>
+<br>
 
-## `💻 cat coding_profiles.json`
+A creative personal portfolio site showcasing projects, skills, and achievements.
 
-<div align="center">
-  <a href="https://leetcode.com/u/Rashi_R_More/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Rashi__R__More-d199a9?style=for-the-badge&logo=leetcode&logoColor=150f11&labelColor=150f11" />
-  </a>
-</div>
+| Stack | Scale | Impact |
+|:---|:---|:---|
+| HTML, CSS, JavaScript | Personal site | Live at rashi-more.github.io |
 
-## `📈 git commit -m "update analytics"`
+**Role:** Sole Developer
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashi-More&show_icons=true&theme=custom&title_color=d3a2b7&icon_color=d199a9&text_color=ebdcd0&bg_color=150f11&border_color=362229" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashi-More&theme=custom&currStreakNum=d3a2b7&sideNums=d199a9&sideLabels=ebdcd0&dates=d199a9&background=150f11&stroke=362229&ring=d3a2b7&fire=d3a2b7" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi-More&layout=compact&theme=custom&title_color=d3a2b7&icon_color=d199a9&text_color=ebdcd0&bg_color=150f11&border_color=362229" alt="Top Languages" />
-</div>
+</details>
 
-## `🏆 git status --trophies`
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rashi-More&theme=rose&margin-w=15&margin-h=15&column=5" alt="GitHub Trophies" />
-</div>
+### `$ tail -f experience.log`
 
-## `📉 git log --activity-graph`
+**Student / Early-Career Developer** · *Present*
+`Independent Projects & Hackathons`
+
+- Built and shipped multiple full-stack and security-focused personal projects independently, including StudyGuard and Clear-Vault
+- Competed in national-level hackathons (Samved, REDACT 2025, TechSprint), building AI and cybersecurity solutions under time constraints
+- Actively contribute to open-source projects while pursuing a specialized degree in AI & Data Science
+- Continuously expanding stack into Spring Boot and advanced JavaScript for backend and full-stack roles
+
+`Tags:` ![](https://img.shields.io/badge/-Java-FF3B5C?style=flat-square&labelColor=0D0D12) ![](https://img.shields.io/badge/-Python-FF3B5C?style=flat-square&labelColor=0D0D12) ![](https://img.shields.io/badge/-JavaScript-FF3B5C?style=flat-square&labelColor=0D0D12) ![](https://img.shields.io/badge/-MySQL-FF3B5C?style=flat-square&labelColor=0D0D12) ![](https://img.shields.io/badge/-Cybersecurity-FF3B5C?style=flat-square&labelColor=0D0D12)
+
+---
+
+### `$ cat achievements.md`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashi-More&bg_color=150f11&color=d3a2b7&line=d199a9&point=ebdcd0&area=true&hide_border=true" alt="Activity Graph" />
+
+| 🏅 Achievement | Event |
+|:---|:---|
+| 🥈 1st Runner-Up | National Level Hackathon — Samved |
+| 🏆 Top 10 Finalist | TechSprint — Project Credify |
+| 🛡️ Hackathon Participant | REDACT 2025 — IntrusionX AI |
+| 🌍 Active Contributor | Open Source Projects |
+| 💻 Hackathon Enthusiast | Multiple National-Level Events |
+
 </div>
 
-## `🗃️ cat summary_cards.md`
+---
+
+### `$ cat education.badge`
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rashi-More&theme=transparent" alt="Profile Details" /><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rashi-More&theme=transparent" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rashi-More&theme=transparent" alt="Most Commit Language" /><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rashi-More&theme=transparent" alt="Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rashi-More&theme=transparent" alt="Productive Time" />
+
+[![Education](https://img.shields.io/badge/B.E.%20Artificial%20Intelligence%20%26%20Data%20Science-SIES%20GST%20(Expected%202028)-0D0D12?style=for-the-badge&color=FF3B5C)](https://github.com/Rashi-More)
+
 </div>
 
-## `🐍 play contribution_snake.sh`
+---
+
+### `$ curl coding-profiles/`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rashi-More/Rashi-More/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rashi__R__More-0D0D12?style=for-the-badge&logo=leetcode&logoColor=FF3B5C&color=0D0D12)](https://leetcode.com/Rashi_R_More)
+
 </div>
 
-## `🎯 cat focus.yaml`
+---
+
+### `$ fetch --github-analytics`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rashi-More&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=FF3B5C&icon_color=FF3B5C&text_color=E8E8ED&ring_color=FF3B5C" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rashi-More&hide_border=true&background=0D0D12&stroke=FF3B5C&ring=FF3B5C&fire=FF3B5C&currStreakLabel=FF3B5C&sideLabels=E8E8ED&currStreakNum=E8E8ED&sideNums=E8E8ED&dates=E8E8ED" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi-More&layout=compact&hide_border=true&bg_color=0D0D12&title_color=FF3B5C&text_color=E8E8ED" />
+
+</div>
+
+---
+
+### `$ ./show --trophies`
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Rashi-More&theme=dracula&no-frame=true&column=7&margin-w=8&margin-h=8)
+
+</div>
+
+---
+
+### `$ plot activity_graph.svg`
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rashi-More&bg_color=0D0D12&color=FF3B5C&line=FF3B5C&point=FFB6C1&area=true&hide_border=true)
+
+</div>
+
+---
+
+### `$ ./summary --full`
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rashi-More&theme=dracula)
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rashi-More&theme=dracula" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rashi-More&theme=dracula" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rashi-More&theme=dracula" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rashi-More&theme=dracula" />
+
+</div>
+
+---
+
+### `$ ./snake --render`
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Rashi-More/Rashi-More/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### `$ cat current_focus.yaml`
 
 ```yaml
 learning:
-  - JavaScript
   - Spring Boot
-  - Artificial Intelligence
+  - Advanced JavaScript
   - Machine Learning
-  - Cybersecurity
-  - Full-Stack Development
 building:
-  - Open Source contributions
-  - Personal projects combining AI and Security
+  - Open source contributions
+  - AI + Cybersecurity hybrid projects
 exploring:
-  - Machine Learning models
-  - Cybersecurity tools
-  - Modern full-stack architectures
+  - Artificial Intelligence
+  - Full-Stack Development
 open_to:
   - Software Engineering Internships
   - AI/ML Internships
@@ -294,29 +324,22 @@ open_to:
   - Open Source Contributions
 ```
 
-## `🤝 ssh connect --user rashi-more`
+---
+
+### `$ ./connect --all`
 
 <div align="center">
-  <a href="https://github.com/Rashi-More" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=d3a2b7&labelColor=150f11" />
-  </a>
-  <a href="https://www.linkedin.com/in/rashi-more-793208307/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=d199a9&labelColor=150f11" />
-  </a>
-  <a href="https://rashi-more.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=d3a2b7&labelColor=150f11" />
-  </a>
-  <a href="mailto:rmrashi197@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=d199a9&labelColor=150f11" />
-  </a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D12?style=for-the-badge&logo=firefox&logoColor=FF3B5C&color=0D0D12)](https://rashi-more.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D12?style=for-the-badge&logo=linkedin&logoColor=FF3B5C&color=0D0D12)](https://www.linkedin.com/in/rashi-more-793208307/)
+[![Email](https://img.shields.io/badge/Email-0D0D12?style=for-the-badge&logo=gmail&logoColor=FF3B5C&color=0D0D12)](mailto:rmrashi197@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D12?style=for-the-badge&logo=github&logoColor=FF3B5C&color=0D0D12)](https://github.com/Rashi-More)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D0D12?style=for-the-badge&logo=leetcode&logoColor=FF3B5C&color=0D0D12)](https://leetcode.com/Rashi_R_More)
+
+<br>
+
+*"Hood up, headphones in, building at the intersection of AI, security, and code."*
+
 </div>
 
-<br/>
-
-> "Intelligence is the ability to adapt to change. Security is the guarantee that we can."
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=150f11&height=100&section=footer&text=&fontSize=70&fontColor=d3a2b7" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF3B5C,100:0D0D12&height=120&section=footer" width="100%"/>
