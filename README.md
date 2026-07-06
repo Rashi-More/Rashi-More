@@ -1,229 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A8A,100:3B82F6&height=190&section=header&text=Rashi%20More&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Cybersecurity%20%7C%20Software%20Engineering&descSize=18&descAlignY=62"/>
-
-# AI Engineer • Software Developer • Cybersecurity Enthusiast
-
-Building secure, scalable, and intelligent software solutions.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E40AF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rashi-more.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashi-more-793208307/)
-[![GitHub](https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rashi-More)
-[![Email](https://img.shields.io/badge/Email-475569?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmrashi197@gmail.com)
-
-📍 **Navi Mumbai, Maharashtra, India**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A41,50:3A5A78,100:8FA8BF&height=180&section=header&text=Rashi%20More&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=AI%20%26%20Cybersecurity%20Focused%20Software%20Developer&descSize=15&descAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
 
----
-
-# Executive Summary
-
-I am an Artificial Intelligence & Data Science student focused on developing secure, practical, and intelligent software systems.
-
-My work combines:
-
-- Artificial Intelligence
-- Cybersecurity
-- Java Backend Development
-- Full Stack Web Development
-- Data Science
-
-I enjoy solving real-world problems through software engineering while continuously learning modern technologies and contributing to open-source communities.
-
----
-
-# Areas of Expertise
-
-| Domain | Focus |
-|---------|-------|
-| Artificial Intelligence | Intelligent Applications, NLP |
-| Cybersecurity | Secure Software, Privacy Solutions |
-| Software Engineering | Java Applications |
-| Full Stack Development | Responsive Web Applications |
-| Data Science | Data Processing & Analytics |
-| Open Source | Community Contributions |
-
----
-
-# Technology Stack
-
-### Programming Languages
-
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![SQL](https://skillicons.dev/icons?i=mysql)
-
----
-
-### Development Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
-
----
-
-# Professional Projects
-
-## StudyGuard
-
-**Productivity Platform**
-
-Browser extension and desktop communication application that detects distractions and improves focus.
-
-**Technology**
-
-- JavaScript
-- Browser Extension APIs
-- Desktop Communication
-
----
-
-## Support Chatbot
-
-**AI Customer Support System**
-
-Java NLP chatbot providing automated support through a responsive web interface.
-
-**Technology**
-
-- Java
-- HTML
-- CSS
-- JavaScript
-
----
-
-## Portfolio Website
-
-Professional portfolio showcasing projects, technical skills, and achievements.
-
-**Technology**
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-## Student Form Management System
-
-Backend web application with persistent storage and form management.
-
-**Technology**
-
-- Java Servlets
-- MySQL
-- HTML
-- CSS
-
----
-
-## IntrusionX AI
-
-Artificial Intelligence based cybersecurity platform developed during REDACT 2025 Hackathon.
-
-**Technology**
-
-- Python
-- Machine Learning
-- Artificial Intelligence
-- Web Technologies
-
----
-
-## Clear-Vault
-
-Secure data deletion platform with digital certificate generation for verification.
-
-**Technology**
-
-- Java
-- File Security
-- Data Protection
-
----
-
-## Credify
-
-Software solution developed during TechSprint to solve practical real-world challenges.
-
----
-
-# Achievements
-
-| Achievement | Recognition |
-|------------|-------------|
-| 🥈 1st Runner-Up | National Level Hackathon (Samved) |
-| 🏆 Top 10 Finalist | TechSprint |
-| 🛡️ REDACT 2025 Participant | IntrusionX AI |
-| 🌍 Open Source Contributor | Active Contributor |
-| 💻 Hackathon Enthusiast | Multiple Events |
-
----
-
-# Education
-
-### Bachelor of Engineering
-
-**Artificial Intelligence & Data Science**
-
-SIES Graduate School of Technology
-
-Expected Graduation: **2028**
-
----
-
-# Current Focus
-
-✔ Open Source Contributions
-
-✔ Artificial Intelligence
-
-✔ Machine Learning
-
-✔ Spring Boot
-
-✔ Java Backend Development
-
-✔ Cybersecurity
-
-✔ Full Stack Development
-
----
-
-# Professional Interests
-
-- Software Engineering Internships
-- AI/ML Engineering
-- Java Backend Development
-- Full Stack Development
-- Cybersecurity Projects
-- Open Source Collaboration
-
----
-
-# Coding Profile
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rashi__R__More-1E40AF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Rashi_R_More)
-
----
-
-# Connect
+<h3 align="center">Software Developer | Artificial Intelligence &amp; Data Science | Cybersecurity</h3>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rashi-more.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashi-more-793208307/)
-[![GitHub](https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rashi-More)
-[![Email](https://img.shields.io/badge/Email-475569?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmrashi197@gmail.com)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-2C3E50?style=flat-square&color=41618c)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C3E50?style=flat-square&color=41618c)
+![Data Science](https://img.shields.io/badge/Data%20Science-2C3E50?style=flat-square&color=41618c)
+![Full Stack](https://img.shields.io/badge/Full--Stack%20Development-2C3E50?style=flat-square&color=41618c)
+![Open Source](https://img.shields.io/badge/Open%20Source-2C3E50?style=flat-square&color=41618c)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:0F172A&height=90&section=footer"/>
-```
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=firefox&logoColor=white&color=1B2A41)](https://rashi-more.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2C3E50?style=for-the-badge&logo=linkedin&logoColor=white&color=1B2A41)](https://www.linkedin.com/in/rashi-more-793208307/)
+[![Email](https://img.shields.io/badge/Email-2C3E50?style=for-the-badge&logo=gmail&logoColor=white&color=1B2A41)](mailto:rmrashi197@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2C3E50?style=for-the-badge&logo=github&logoColor=white&color=1B2A41)](https://github.com/Rashi-More)
+
+</div>
+
+<p align="center">Navi Mumbai, Maharashtra, India</p>
+
+---
+
+## Professional Summary
+
+Software developer specializing in Artificial Intelligence, Data Science, and Cybersecurity, with a strong foundation in full-stack development. Experienced in delivering functional solutions through hackathons, academic projects, and open-source contributions. Committed to writing secure, maintainable code and continuously expanding technical expertise.
+
+**Focus Areas:** Artificial Intelligence · Data Science · Software Development · Java Development · Web Development · Cybersecurity · Open Source
+
+---
+
+## Core Competencies
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Java, JavaScript, Python, SQL, HTML, CSS |
+| **Databases** | MySQL |
+| **Tools & Platforms** | Git, GitHub, VS Code, IntelliJ IDEA |
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,idea&theme=light)
+
+</div>
+
+---
+
+## Education
+
+**Bachelor of Engineering (B.E.), Artificial Intelligence & Data Science**
+SIES Graduate School of Technology (SIES GST) — Expected Graduation: 2028
+
+---
+
+## Experience
+
+Currently pursuing undergraduate studies while actively building industry-relevant experience through hackathons, team-based projects, and independent development work.
+
+---
+
+## Project Portfolio
+
+### StudyGuard
+Productivity application that detects distractions using a browser extension paired with desktop-side communication.
+- **Technologies:** JavaScript, Browser Extension, Desktop Application
+- **Role:** Sole Developer
+
+### Support Chatbot
+Java-based NLP chatbot delivered through a web interface.
+- **Technologies:** Java, HTML, CSS, JavaScript
+- **Role:** Sole Developer
+
+### Portfolio Website
+Personal portfolio site presenting projects and achievements.
+- **Technologies:** HTML, CSS, JavaScript
+- **Role:** Sole Developer
+
+### Student Form Management System
+Java Servlet-based web application with backend data storage.
+- **Technologies:** Java Servlets, HTML, CSS, MySQL
+- **Role:** Sole Developer
+
+### IntrusionX AI
+AI-powered cybersecurity solution developed for the REDACT 2025 Hackathon.
+- **Technologies:** AI, Python, Machine Learning, Web Technologies
+- **Role:** Team Member / Developer
+
+### Clear-Vault
+Secure data-wiping and digital certificate generation system for verified deletion of digital assets.
+- **Technologies:** Java, Security, File Management
+- **Role:** Developer
+
+### Credify
+Solution developed during TechSprint addressing real-world challenges through software innovation.
+- **Role:** Team Member / Developer
+
+---
+
+## Achievements
+
+| Recognition | Event |
+|---|---|
+| 1st Runner-Up | National Level Hackathon — Samved |
+| Top 10 Finalist | TechSprint — Credify |
+| Participant | REDACT 2025 Hackathon — IntrusionX AI |
+| Active Contributor | Open Source Community |
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rashi__R__More-2C3E50?style=for-the-badge&logo=leetcode&logoColor=white&color=1B2A41)](https://leetcode.com/Rashi_R_More)
+
+</div>
+
+---
+
+## Current Focus
+
+- Contributing to open-source projects
+- Advancing skills in JavaScript and Spring Boot
+- Deepening expertise in Artificial Intelligence, Machine Learning, Cybersecurity, and Full-Stack Development
+
+---
+
+## Open To
+
+Software Engineering Internships · AI/ML Internships · Java Backend Developer Roles · Full-Stack Development Roles · Cybersecurity Projects · Open Source Collaboration
+
+---
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=firefox&logoColor=white&color=1B2A41)](https://rashi-more.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2C3E50?style=for-the-badge&logo=linkedin&logoColor=white&color=1B2A41)](https://www.linkedin.com/in/rashi-more-793208307/)
+[![Email](https://img.shields.io/badge/Email-2C3E50?style=for-the-badge&logo=gmail&logoColor=white&color=1B2A41)](mailto:rmrashi197@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2C3E50?style=for-the-badge&logo=github&logoColor=white&color=1B2A41)](https://github.com/Rashi-More)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2C3E50?style=for-the-badge&logo=leetcode&logoColor=white&color=1B2A41)](https://leetcode.com/Rashi_R_More)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FA8BF,100:1B2A41&height=100&section=footer" width="100%"/>
