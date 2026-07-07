@@ -1,397 +1,154 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=YOUR%20NAME&fontSize=60&fontColor=C9B8FF&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Architect&descAlignY=55&descSize=18" width="100%"/>
+# Rashi More
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems+at+Enterprise+Grade;Engineering+Intelligent+%2F+Autonomous+Software;Full+Stack+%2B+AI%2FML+%2B+Cloud+Native+Architect;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/CGPA-9.0%2F10-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Location-India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
-
-<br/><br/>
-
-<a href="https://yourportfolio.dev">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d"/>
-</a>
-<a href="https://linkedin.com/in/yourhandle">
-  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
-</a>
-<a href="mailto:you@example.com">
-  <img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
-</a>
-<a href="https://github.com/yourusername">
-  <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=c4b5fd&labelColor=1a1a2e&label=STARS"/>
+**Software Developer | Artificial Intelligence &amp; Data Science | Cybersecurity**
 
 </div>
 
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%)
-
-## 🧠 About Me
-
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b520-4ce6813c356d.gif">
-
-```yaml
-name: "Your Name"
-role: "Senior Software Engineer / AI Engineer"
-focus:
-  - Distributed Systems & Backend Architecture
-  - Applied Machine Learning & LLM Engineering
-  - Full Stack Product Development
-  - Cloud Native & DevOps Automation
-philosophy: >
-  I engineer software the way enterprises expect it —
-  scalable, observable, secure, and built to last.
-```
-
-I'm a software engineer specializing in **backend architecture**, **applied AI/ML**, and **full stack product engineering**. I design systems that scale from prototype to production, with a strong emphasis on clean architecture, performance engineering, and measurable business impact.
-
-My work spans **distributed backend services**, **LLM-powered applications**, and **cloud-native infrastructure**, with a product engineering mindset that prioritizes reliability, security, and user experience in equal measure.
-
-<br/>
-
-**🎯 Open To**
+<hr style="height:4px;border:none;background:linear-gradient(90deg,#1B2A41,#3A5A78,#8FA8BF);border-radius:2px;" />
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Software%20Engineering-Roles-7C3AED?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/AI%2FML%20Engineering-Roles-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Full%20Stack-Roles-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Open%20Source-Collaboration-A78BFA?style=flat-square&labelColor=1a1a2e"/>
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-2C3E50?style=flat-square&color=41618c)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C3E50?style=flat-square&color=41618c)
+![Data Science](https://img.shields.io/badge/Data%20Science-2C3E50?style=flat-square&color=41618c)
+![Full Stack](https://img.shields.io/badge/Full--Stack%20Development-2C3E50?style=flat-square&color=41618c)
+![Open Source](https://img.shields.io/badge/Open%20Source-2C3E50?style=flat-square&color=41618c)
 
 </div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%)
-
-## ⚙️ Tech Stack
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,go&theme=dark"/>
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark"/>
-
-<br/><br/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis,graphql&theme=dark"/>
-
-<br/><br/>
-
-**Cloud, DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,nginx,git&theme=dark"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=firefox&logoColor=white&color=1B2A41)](https://rashi-more.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2C3E50?style=for-the-badge&logo=linkedin&logoColor=white&color=1B2A41)](https://www.linkedin.com/in/rashi-more-793208307/)
+[![Email](https://img.shields.io/badge/Email-2C3E50?style=for-the-badge&logo=gmail&logoColor=white&color=1B2A41)](mailto:rmrashi197@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2C3E50?style=for-the-badge&logo=github&logoColor=white&color=1B2A41)](https://github.com/Rashi-More)
 
 </div>
 
-<br/>
+<p align="center">Navi Mumbai, Maharashtra, India</p>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%)
+---
 
-## 🤖 AI / ML Expertise
+## Professional Summary
 
-<div align="center">
+Software developer specializing in Artificial Intelligence, Data Science, and Cybersecurity, with a strong foundation in full-stack development. Experienced in delivering functional solutions through hackathons, academic projects, and open-source contributions. Committed to writing secure, maintainable code and continuously expanding technical expertise.
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| **LLM Engineering** | ⭐⭐⭐⭐⭐ | RAG pipelines, prompt engineering, fine-tuning, agentic workflows |
-| **Deep Learning** | ⭐⭐⭐⭐ | CNNs, Transformers, PyTorch / TensorFlow model design |
-| **NLP** | ⭐⭐⭐⭐⭐ | Text classification, embeddings, semantic search, vector databases |
-| **MLOps** | ⭐⭐⭐⭐ | Model serving, CI/CD for ML, monitoring, experiment tracking |
-| **Computer Vision** | ⭐⭐⭐ | Object detection, image segmentation, OpenCV pipelines |
-| **Data Engineering** | ⭐⭐⭐⭐ | ETL pipelines, Spark, data warehousing, feature stores |
+**Focus Areas:** Artificial Intelligence · Data Science · Software Development · Java Development · Web Development · Cybersecurity · Open Source
 
-</div>
+---
 
-<br/>
+## Core Competencies
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%)
-
-## 🚀 Featured Projects
-
-<details>
-<summary><b>🔮 Project One — Intelligent Document Retrieval Platform</b></summary>
-<br/>
-
-An enterprise-grade RAG platform enabling semantic search and Q&A over large unstructured document corpora, deployed at scale for internal knowledge management use cases.
-
-| Category | Details |
+| Category | Technologies |
 |---|---|
-| **Stack** | Python, FastAPI, LangChain, PostgreSQL + pgvector, React, Docker |
-| **Scale** | 2M+ indexed documents, 50K+ monthly queries |
-| **Performance** | Sub-300ms average query latency at p95 |
-| **Security** | OAuth2, role-based access control, encrypted data at rest |
-| **Impact** | Reduced internal research time by 40% across teams |
-| **Repository** | [github.com/yourusername/project-one](https://github.com/yourusername/project-one) |
+| **Languages** | Java, JavaScript, Python, SQL, HTML, CSS |
+| **Databases** | MySQL |
+| **Tools & Platforms** | Git, GitHub, VS Code, IntelliJ IDEA |
 
-This system combines a hybrid retrieval pipeline (dense + sparse) with a fine-tuned reranking layer, served behind an autoscaling FastAPI backend and instrumented with full observability via OpenTelemetry.
+<div align="center">
 
-</details>
+![Skills](https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,idea&theme=light)
 
-<details>
-<summary><b>⚡ Project Two — Real-Time Distributed Order Processing System</b></summary>
-<br/>
+</div>
 
-A high-throughput, event-driven backend built to process financial transactions with strict consistency and fault-tolerance guarantees.
+---
 
-| Category | Details |
+## Education
+
+**Bachelor of Engineering (B.E.), Artificial Intelligence & Data Science**
+SIES Graduate School of Technology (SIES GST) — Expected Graduation: 2028
+
+---
+
+## Experience
+
+Currently pursuing undergraduate studies while actively building industry-relevant experience through hackathons, team-based projects, and independent development work.
+
+---
+
+## Project Portfolio
+
+### StudyGuard
+Productivity application that detects distractions using a browser extension paired with desktop-side communication.
+- **Technologies:** JavaScript, Browser Extension, Desktop Application
+- **Role:** Sole Developer
+
+### Support Chatbot
+Java-based NLP chatbot delivered through a web interface.
+- **Technologies:** Java, HTML, CSS, JavaScript
+- **Role:** Sole Developer
+
+### Portfolio Website
+Personal portfolio site presenting projects and achievements.
+- **Technologies:** HTML, CSS, JavaScript
+- **Role:** Sole Developer
+
+### Student Form Management System
+Java Servlet-based web application with backend data storage.
+- **Technologies:** Java Servlets, HTML, CSS, MySQL
+- **Role:** Sole Developer
+
+### IntrusionX AI
+AI-powered cybersecurity solution developed for the REDACT 2025 Hackathon.
+- **Technologies:** AI, Python, Machine Learning, Web Technologies
+- **Role:** Team Member / Developer
+
+### Clear-Vault
+Secure data-wiping and digital certificate generation system for verified deletion of digital assets.
+- **Technologies:** Java, Security, File Management
+- **Role:** Developer
+
+### Credify
+Solution developed during TechSprint addressing real-world challenges through software innovation.
+- **Role:** Team Member / Developer
+
+---
+
+## Achievements
+
+| Recognition | Event |
 |---|---|
-| **Stack** | Go, Kafka, Redis, PostgreSQL, Kubernetes |
-| **Scale** | 10K+ transactions/sec at peak load |
-| **Performance** | 99.99% uptime, horizontal autoscaling |
-| **Security** | mTLS between services, audit logging, idempotency guarantees |
-| **Impact** | Cut transaction processing latency by 65% |
-| **Repository** | [github.com/yourusername/project-two](https://github.com/yourusername/project-two) |
+| 1st Runner-Up | National Level Hackathon — Samved |
+| Top 10 Finalist | TechSprint — Credify |
+| Participant | REDACT 2025 Hackathon — IntrusionX AI |
+| Active Contributor | Open Source Community |
 
-Designed around an event-sourced architecture with CQRS, this system guarantees exactly-once processing semantics and includes a custom circuit-breaker layer for downstream resilience.
+---
 
-</details>
-
-<details>
-<summary><b>🧩 Project Three — Full Stack SaaS Analytics Dashboard</b></summary>
-<br/>
-
-A multi-tenant analytics dashboard offering real-time metrics visualization, custom reporting, and role-based team collaboration.
-
-| Category | Details |
-|---|---|
-| **Stack** | Next.js, TypeScript, Node.js, MongoDB, Redis, AWS |
-| **Scale** | 500+ active organizations onboarded |
-| **Performance** | Real-time updates via WebSockets, <100ms UI response |
-| **Security** | JWT auth, tenant data isolation, SOC2-aligned logging |
-| **Impact** | Increased customer retention by 28% post-launch |
-| **Repository** | [github.com/yourusername/project-three](https://github.com/yourusername/project-three) |
-
-Built with a modular monorepo architecture, this platform supports plug-in style report widgets and a fully typed API contract shared across frontend and backend.
-
-</details>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%)
-
-## 💼 Experience
-
-### **Senior Software Engineer**
-**Company Name Pvt. Ltd.** · *Jan 2024 — Present*
-
-Leading design and development of core backend services and AI-powered features for a high-growth SaaS platform, working across the full engineering lifecycle from architecture to deployment.
-
-- Architected and shipped microservices handling 5M+ daily requests
-- Led migration from monolith to event-driven microservices architecture
-- Built internal LLM tooling adopted across 4 product teams
-- Mentored a team of 4 engineers on system design best practices
-
-`Go` `Python` `Kubernetes` `Kafka` `AWS` `LLM Engineering`
-
-<br/>
-
-### **Software Engineer**
-**Previous Company Inc.** · *Jun 2022 — Dec 2023*
-
-Developed and maintained full stack features for a customer-facing web application serving enterprise clients.
-
-- Built RESTful and GraphQL APIs consumed by web and mobile clients
-- Improved API response times by 45% through query optimization
-- Implemented CI/CD pipelines reducing deployment time by 60%
-- Collaborated cross-functionally with product and design teams
-
-`React` `Node.js` `PostgreSQL` `Docker` `GraphQL`
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%)
-
-## 🏆 Achievements
+## Coding Profiles
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🥇 Smart India Hackathon — Winner | National-level hackathon, AI-based solution track |
-| 🌟 Top Contributor | Recognized open-source contributor across 10+ repositories |
-| 🎓 Dean's List | Awarded for academic excellence, 3 consecutive semesters |
-| 🚀 Hackathon Finalist | Top 5 out of 500+ teams, enterprise sponsor challenge |
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rashi__R__More-2C3E50?style=for-the-badge&logo=leetcode&logoColor=white&color=1B2A41)](https://leetcode.com/Rashi_R_More)
 
 </div>
 
-<br/>
+---
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%)
+## Current Focus
 
-## 📜 Certifications
+- Contributing to open-source projects
+- Advancing skills in JavaScript and Spring Boot
+- Deepening expertise in Artificial Intelligence, Machine Learning, Cybersecurity, and Full-Stack Development
 
-**AWS**
+---
 
-<img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/AWS%20Certified%20Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e"/>
+## Open To
 
-**Oracle**
+Software Engineering Internships · AI/ML Internships · Java Backend Developer Roles · Full-Stack Development Roles · Cybersecurity Projects · Open Source Collaboration
 
-<img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a2e"/>
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL-Machine%20Learning-3B82F6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-3B82F6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e"/>
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e"/>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%)
-
-## 💻 Coding Profiles
+---
 
 <div align="center">
 
-<a href="https://leetcode.com/yourusername">
-  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e"/>
-</a>
-<a href="https://www.geeksforgeeks.org/user/yourusername">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%201-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<br/><br/>
-<a href="https://www.hackerrank.com/yourusername">
-  <img src="https://img.shields.io/badge/HackerRank-5%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://www.codechef.com/users/yourusername">
-  <img src="https://img.shields.io/badge/CodeChef-4%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=firefox&logoColor=white&color=1B2A41)](https://rashi-more.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2C3E50?style=for-the-badge&logo=linkedin&logoColor=white&color=1B2A41)](https://www.linkedin.com/in/rashi-more-793208307/)
+[![Email](https://img.shields.io/badge/Email-2C3E50?style=for-the-badge&logo=gmail&logoColor=white&color=1B2A41)](mailto:rmrashi197@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2C3E50?style=for-the-badge&logo=github&logoColor=white&color=1B2A41)](https://github.com/Rashi-More)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2C3E50?style=for-the-badge&logo=leetcode&logoColor=white&color=1B2A41)](https://leetcode.com/Rashi_R_More)
 
 </div>
 
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%)
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&background=0d0d0d&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=c9c9c9" width="49%"/>
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%)
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%)
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d0d0d&color=A78BFA&line=8B5CF6&point=C9B8FF&hide_border=true"/>
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%)
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%)
-
-## 🎯 Current Focus
-
-```yaml
-learning:
-  - Advanced LLM agent orchestration frameworks
-  - Distributed systems at massive scale
-  - Rust for high-performance backend services
-
-building:
-  - An open-source RAG evaluation toolkit
-  - A developer-first observability dashboard
-
-exploring:
-  - Vector database internals
-  - Edge computing for AI inference
-
-open_to:
-  - Senior / Staff Software Engineer roles
-  - AI / ML Engineering opportunities
-  - Open source collaboration
-```
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%)
-
-## 📬 Connect With Me
-
-<div align="center">
-
-<a href="mailto:you@example.com">
-  <img src="https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://linkedin.com/in/yourhandle">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://github.com/yourusername">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://yourportfolio.dev">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*"Great software is not written, it's engineered — deliberately, precisely, and with the future in mind."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
-
-</div>
+<hr style="height:4px;border:none;background:linear-gradient(90deg,#8FA8BF,#1B2A41);border-radius:2px;" />
