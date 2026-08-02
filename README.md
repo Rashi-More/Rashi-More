@@ -1,154 +1,167 @@
 <div align="center">
 
-# Rashi More
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E293B,100:334155&text=Rashi%20More&fontColor=E2E8F0&fontSize=55&fontAlignY=38&desc=☕%20Code%20•%20AI%20•%20Cats%20•%20Cybersecurity&descAlignY=58&animation=fadeIn"/>
 
-**Software Developer | Artificial Intelligence &amp; Data Science | Cybersecurity**
+<img src="./image.png" width="220"/>
 
-</div>
+# ☾ Hi, I'm Rashi More
 
-<hr style="height:4px;border:none;background:linear-gradient(90deg,#1B2A41,#3A5A78,#8FA8BF);border-radius:2px;" />
+### AI • Java • Cybersecurity • Full Stack
 
-<div align="center">
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-2C3E50?style=flat-square&color=41618c)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C3E50?style=flat-square&color=41618c)
-![Data Science](https://img.shields.io/badge/Data%20Science-2C3E50?style=flat-square&color=41618c)
-![Full Stack](https://img.shields.io/badge/Full--Stack%20Development-2C3E50?style=flat-square&color=41618c)
-![Open Source](https://img.shields.io/badge/Open%20Source-2C3E50?style=flat-square&color=41618c)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&color=CBA6F7&center=true&vCenter=true&width=650&lines=🐈+Late+Night+Coder...;☕+Coffee+Powered;🤖+Artificial+Intelligence;💜+Open+Source+Enthusiast;✨+Always+Learning"/>
 
 </div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=firefox&logoColor=white&color=1B2A41)](https://rashi-more.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2C3E50?style=for-the-badge&logo=linkedin&logoColor=white&color=1B2A41)](https://www.linkedin.com/in/rashi-more-793208307/)
-[![Email](https://img.shields.io/badge/Email-2C3E50?style=for-the-badge&logo=gmail&logoColor=white&color=1B2A41)](mailto:rmrashi197@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2C3E50?style=for-the-badge&logo=github&logoColor=white&color=1B2A41)](https://github.com/Rashi-More)
-
-</div>
-
-<p align="center">Navi Mumbai, Maharashtra, India</p>
-
----
-
-## Professional Summary
-
-Software developer specializing in Artificial Intelligence, Data Science, and Cybersecurity, with a strong foundation in full-stack development. Experienced in delivering functional solutions through hackathons, academic projects, and open-source contributions. Committed to writing secure, maintainable code and continuously expanding technical expertise.
-
-**Focus Areas:** Artificial Intelligence · Data Science · Software Development · Java Development · Web Development · Cybersecurity · Open Source
-
----
-
-## Core Competencies
-
-| Category | Technologies |
-|---|---|
-| **Languages** | Java, JavaScript, Python, SQL, HTML, CSS |
-| **Databases** | MySQL |
-| **Tools & Platforms** | Git, GitHub, VS Code, IntelliJ IDEA |
-
-<div align="center">
-
-![Skills](https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,idea&theme=light)
-
-</div>
-
----
-
-## Education
-
-**Bachelor of Engineering (B.E.), Artificial Intelligence & Data Science**
-SIES Graduate School of Technology (SIES GST) — Expected Graduation: 2028
-
----
-
-## Experience
-
-Currently pursuing undergraduate studies while actively building industry-relevant experience through hackathons, team-based projects, and independent development work.
-
----
-
-## Project Portfolio
-
-### StudyGuard
-Productivity application that detects distractions using a browser extension paired with desktop-side communication.
-- **Technologies:** JavaScript, Browser Extension, Desktop Application
-- **Role:** Sole Developer
-
-### Support Chatbot
-Java-based NLP chatbot delivered through a web interface.
-- **Technologies:** Java, HTML, CSS, JavaScript
-- **Role:** Sole Developer
-
-### Portfolio Website
-Personal portfolio site presenting projects and achievements.
-- **Technologies:** HTML, CSS, JavaScript
-- **Role:** Sole Developer
-
-### Student Form Management System
-Java Servlet-based web application with backend data storage.
-- **Technologies:** Java Servlets, HTML, CSS, MySQL
-- **Role:** Sole Developer
-
-### IntrusionX AI
-AI-powered cybersecurity solution developed for the REDACT 2025 Hackathon.
-- **Technologies:** AI, Python, Machine Learning, Web Technologies
-- **Role:** Team Member / Developer
-
-### Clear-Vault
-Secure data-wiping and digital certificate generation system for verified deletion of digital assets.
-- **Technologies:** Java, Security, File Management
-- **Role:** Developer
-
-### Credify
-Solution developed during TechSprint addressing real-world challenges through software innovation.
-- **Role:** Team Member / Developer
-
----
-
-## Achievements
-
-| Recognition | Event |
-|---|---|
-| 1st Runner-Up | National Level Hackathon — Samved |
-| Top 10 Finalist | TechSprint — Credify |
-| Participant | REDACT 2025 Hackathon — IntrusionX AI |
-| Active Contributor | Open Source Community |
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rashi__R__More-2C3E50?style=for-the-badge&logo=leetcode&logoColor=white&color=1B2A41)](https://leetcode.com/Rashi_R_More)
-
-</div>
-
----
-
-## Current Focus
-
-- Contributing to open-source projects
-- Advancing skills in JavaScript and Spring Boot
-- Deepening expertise in Artificial Intelligence, Machine Learning, Cybersecurity, and Full-Stack Development
-
----
-
-## Open To
-
-Software Engineering Internships · AI/ML Internships · Java Backend Developer Roles · Full-Stack Development Roles · Cybersecurity Projects · Open Source Collaboration
 
 ---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=firefox&logoColor=white&color=1B2A41)](https://rashi-more.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2C3E50?style=for-the-badge&logo=linkedin&logoColor=white&color=1B2A41)](https://www.linkedin.com/in/rashi-more-793208307/)
-[![Email](https://img.shields.io/badge/Email-2C3E50?style=for-the-badge&logo=gmail&logoColor=white&color=1B2A41)](mailto:rmrashi197@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2C3E50?style=for-the-badge&logo=github&logoColor=white&color=1B2A41)](https://github.com/Rashi-More)
-[![LeetCode](https://img.shields.io/badge/LeetCode-2C3E50?style=for-the-badge&logo=leetcode&logoColor=white&color=1B2A41)](https://leetcode.com/Rashi_R_More)
+૮ ˶ᵔ ᵕ ᵔ˶ ა
+
+**Welcome to my cozy coding corner 🌙**
 
 </div>
 
-<hr style="height:4px;border:none;background:linear-gradient(90deg,#8FA8BF,#1B2A41);border-radius:2px;" />
+---
+
+## 🌸 About Me
+
+```txt
+╭──────────────────────────────╮
+
+🐈 Name      :: Rashi More
+
+💻 Role      :: Software Developer
+
+🤖 Interest  :: Artificial Intelligence
+
+🔐 Learning  :: Cybersecurity
+
+🌱 Exploring :: Spring Boot
+
+☕ Fuel       :: Coffee
+
+🌙 Mood      :: Coding with my cat
+
+╰──────────────────────────────╯
+```
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://rashi-more.github.io">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rashi-more-793208307/">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rmrashi197@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rashi-More">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Rashi_R_More">
+<img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,spring,mysql,git,github,vscode,idea&theme=dark"/>
+
+</p>
+
+---
+
+## 🌙 Currently
+
+```text
+🐾 Building Projects
+
+☕ Drinking Coffee
+
+📖 Learning Spring Boot
+
+💜 Contributing to Open Source
+
+🌸 Petting Virtual Cats
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rashi-More&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Rashi-More&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi-More&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashi-More&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+🥈 National Hackathon Runner-Up
+
+🏆 TechSprint Top 10
+
+💻 AI & Cybersecurity Projects
+
+🌸 Open Source Contributor
+
+---
+
+## ✨ Favorite Quote
+
+> *"Code quietly. Let your projects make the noise."* 🌙
+
+---
+
+<div align="center">
+
+```
+      /\_/\\
+     ( •.• )
+      > ☕
+```
+
+**Thanks for visiting!**
+
+<img src="https://komarev.com/ghpvc/?username=Rashi-More&style=for-the-badge&color=7C3AED"/>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:334155,50:1E293B,100:0F172A"/>
+
+</div>
