@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=210635&custom_color_2=7B337E&height=220&section=header&text=Hi%20There,%20I'm%20My%20Name%20👋&fontSize=38&fontColor=E3D9FC&animation=twinkle&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Student&descSize=18&descAlignY=62&descColor=BF40FA" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=210635&custom_color_2=7B337E&height=220&section=header&text=Hi%20There,%20I'm%20Rashi%20More%20👋&fontSize=38&fontColor=E3D9FC&animation=twinkle&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Student&descSize=18&descAlignY=62&descColor=BF40FA" width="100%" alt="Header Banner" />
 
   <!-- TYPING SVG ANIMATION -->
   <a href="https://git.io/typing-svg">
@@ -12,9 +12,9 @@
 
   <!-- BADGES ROW -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=PROFILE+VIEWS&color=7B337E&style=for-the-badge&logoColor=E3D9FC" alt="Visitor Counter" />
-    <img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&logo=github&color=4928C2&labelColor=210635&logoColor=E3D9FC" alt="Followers Badge" />
-    <img src="https://img.shields.io/github/stars/YOUR-USERNAME?style=for-the-badge&logo=github&color=BF40FA&labelColor=210635&logoColor=E3D9FC" alt="Stars Badge" />
+    <img src="https://komarev.com/ghpvc/?username=Rashi-More&label=PROFILE+VIEWS&color=7B337E&style=for-the-badge&logoColor=E3D9FC" alt="Visitor Counter" />
+    <img src="https://img.shields.io/github/followers/Rashi-More?style=for-the-badge&logo=github&color=4928C2&labelColor=210635&logoColor=E3D9FC" alt="Followers Badge" />
+    <img src="https://img.shields.io/github/stars/Rashi-More?style=for-the-badge&logo=github&color=BF40FA&labelColor=210635&logoColor=E3D9FC" alt="Stars Badge" />
   </p>
 
 </div>
@@ -150,7 +150,7 @@
   <h2>🏆 Achievements & Trophies</h2>
   <br />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=dracula&no-bg=true&no-frame=false&margin-w=15" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Rashi-More&theme=dracula&no-bg=true&no-frame=false&margin-w=15" alt="GitHub Profile Trophies" />
   </a>
 </div>
 
@@ -164,10 +164,10 @@
   <table border="0" width="100%">
     <tr border="0">
       <td width="50%" align="center" border="0">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=moon&bg_color=210635,040607&title_color=E3D9FC&text_color=E3D9FC&icon_color=BF40FA&border_color=7B337E&border_radius=15" width="100%" alt="GitHub Readme Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Rashi-More&show_icons=true&theme=moon&bg_color=210635,040607&title_color=E3D9FC&text_color=E3D9FC&icon_color=BF40FA&border_color=7B337E&border_radius=15" width="100%" alt="GitHub Readme Stats" />
       </td>
       <td width="50%" align="center" border="0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=moon&bg_color=210635,040607&title_color=E3D9FC&text_color=E3D9FC&border_color=7B337E&border_radius=15" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashi-More&layout=compact&theme=moon&bg_color=210635,040607&title_color=E3D9FC&text_color=E3D9FC&border_color=7B337E&border_radius=15" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -177,7 +177,7 @@
   <table border="0" width="100%">
     <tr border="0">
       <td width="100%" align="center" border="0">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&background=210635&border=7B337E&stroke=BF40FA&ring=E3D9FC&fire=BF40FA&currStreakNum=E3D9FC&sideNums=E3D9FC&currStreakLabel=E3D9FC&sideLabels=E3D9FC&dates=6667AB" width="100%" alt="GitHub Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashi-More&theme=dark&background=210635&border=7B337E&stroke=BF40FA&ring=E3D9FC&fire=BF40FA&currStreakNum=E3D9FC&sideNums=E3D9FC&currStreakLabel=E3D9FC&sideLabels=E3D9FC&dates=6667AB" width="100%" alt="GitHub Streak Stats" />
       </td>
     </tr>
   </table>
@@ -187,7 +187,7 @@
   <table border="0" width="100%">
     <tr border="0">
       <td width="100%" align="center" border="0">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&bg_color=040607&color=BF40FA&line=6667AB&point=E3D9FC&area=true&area_color=420D4B" width="100%" alt="Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashi-More&theme=react-dark&bg_color=040607&color=BF40FA&line=6667AB&point=E3D9FC&area=true&area_color=420D4B" width="100%" alt="Activity Graph" />
       </td>
     </tr>
   </table>
@@ -226,9 +226,9 @@
               </p>
             </td>
             <td width="20%" align="right" style="border: none;">
-              <a href="https://github.com/YOUR-USERNAME/project-repo"><img src="https://img.shields.io/badge/Live_Demo-7B337E?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+              <a href="https://github.com/Rashi-More"><img src="https://img.shields.io/badge/Live_Demo-7B337E?style=for-the-badge&logo=firefox&logoColor=white" /></a>
               <br /><br />
-              <a href="https://github.com/YOUR-USERNAME/project-repo"><img src="https://img.shields.io/badge/Repository-4928C2?style=for-the-badge&logo=github&logoColor=white" /></a>
+              <a href="https://github.com/Rashi-More"><img src="https://img.shields.io/badge/Repository-4928C2?style=for-the-badge&logo=github&logoColor=white" /></a>
             </td>
           </tr>
         </table>
@@ -257,9 +257,9 @@
               </p>
             </td>
             <td width="20%" align="right" style="border: none;">
-              <a href="https://github.com/YOUR-USERNAME/project-repo"><img src="https://img.shields.io/badge/Live_Demo-7B337E?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+              <a href="https://github.com/Rashi-More"><img src="https://img.shields.io/badge/Live_Demo-7B337E?style=for-the-badge&logo=firefox&logoColor=white" /></a>
               <br /><br />
-              <a href="https://github.com/YOUR-USERNAME/project-repo"><img src="https://img.shields.io/badge/Repository-4928C2?style=for-the-badge&logo=github&logoColor=white" /></a>
+              <a href="https://github.com/Rashi-More"><img src="https://img.shields.io/badge/Repository-4928C2?style=for-the-badge&logo=github&logoColor=white" /></a>
             </td>
           </tr>
         </table>
@@ -288,9 +288,9 @@
               </p>
             </td>
             <td width="20%" align="right" style="border: none;">
-              <a href="https://github.com/YOUR-USERNAME/project-repo"><img src="https://img.shields.io/badge/Live_Demo-7B337E?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+              <a href="https://github.com/Rashi-More"><img src="https://img.shields.io/badge/Live_Demo-7B337E?style=for-the-badge&logo=firefox&logoColor=white" /></a>
               <br /><br />
-              <a href="https://github.com/YOUR-USERNAME/project-repo"><img src="https://img.shields.io/badge/Repository-4928C2?style=for-the-badge&logo=github&logoColor=white" /></a>
+              <a href="https://github.com/Rashi-More"><img src="https://img.shields.io/badge/Repository-4928C2?style=for-the-badge&logo=github&logoColor=white" /></a>
             </td>
           </tr>
         </table>
@@ -364,19 +364,19 @@
   <br />
 
   <p align="center">
-    <a href="https://github.com/YOUR-USERNAME" target="_blank">
+    <a href="https://github.com/Rashi-More" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=210635" alt="GitHub" />
     </a>
-    <a href="https://linkedin.com/in/YOUR-USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/Rashi-More" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=4928C2" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/YOUR-USERNAME" target="_blank">
+    <a href="https://instagram.com/Rashi-More" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=BF40FA" alt="Instagram" />
     </a>
-    <a href="mailto:your.email@example.com" target="_blank">
+    <a href="mailto:rashi.more@example.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=7B337E" alt="Email" />
     </a>
-    <a href="https://yourportfolio.com" target="_blank">
+    <a href="https://rashi-more.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-420D4B?style=for-the-badge&logo=react&logoColor=white&color=5B2A62" alt="Portfolio" />
     </a>
   </p>
@@ -399,6 +399,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=7B337E&custom_color_2=210635&height=120&section=footer" width="100%" alt="Footer Banner" />
 
   <p style="color: #6667AB; font-size: 12px;">
-    <i>Designed with 💜 & Moon Aesthetic Theme • Made for GitHub Profile</i>
+    <i>Designed with 💜 & Moon Aesthetic Theme • Made for Rashi More's GitHub Profile</i>
   </p>
 </div>
